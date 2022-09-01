@@ -1,6 +1,6 @@
-#### Last name:
-#### First name:
-#### Github username:
+#### Last name: Fung
+#### First name: Harrison
+#### Github username: hfung8
 
 #### Instructions:
 Fill out the top of this form, commit and push it back to GitHub.
